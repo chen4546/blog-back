@@ -1,0 +1,7 @@
+com\example\demo1\entity\User.class
+com\example\demo1\entity\Title.class
+com\example\demo1\mapper\UserMapper.class
+com\example\demo1\controller\UserController.class
+com\example\demo1\controller\TitleController.class
+com\example\demo1\mapper\TitleMapper.class
+com\example\demo1\Demo1Application.class

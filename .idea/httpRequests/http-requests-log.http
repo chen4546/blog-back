@@ -1,0 +1,30 @@
+GET http://localhost:3030/info
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-06-14T234008-1.404.json
+
+###
+
+GET http://localhost:3030/info
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-06-14T234008.404.json
+
+###
+
+GET http://localhost:3030/info/info
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-06-13T023417.500.json
+
+###
+

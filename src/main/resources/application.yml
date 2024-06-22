@@ -6,5 +6,5 @@ spring:
         driver-class-name: com.mysql.cj.jdbc.Driver
         username: ccc
         password: 1234
-        url : jdbc:mysql://127.0.0.1:3306
-
+        url : jdbc:mysql://8.130.27.131/mytest
+##        url: jdbc:mysql://127.0.0.1:3306/mytest
